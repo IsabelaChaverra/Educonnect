@@ -1,5 +1,5 @@
-def greet(name):
+#def greet(name):
     return f"Hello, {name}!"
 
 # Example usage
-print(greet("Dani"))
+#print(greet("Dani")),
