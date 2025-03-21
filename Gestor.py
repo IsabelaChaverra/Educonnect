@@ -69,12 +69,4 @@ if __name__ == "__main__":
     menu()
 
 
-    # Daniem
 
-
-    asdfasfdasdfafadfasfdasdfasfdas
-    Falsedfasfdasdfas
-    defdf
-    assertdfa
-    FileNotFoundErroras
-    
