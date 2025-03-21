@@ -70,3 +70,11 @@ if __name__ == "__main__":
 
 
     # Daniem
+
+
+    asdfasfdasdfafadfasfdasdfasfdas
+    Falsedfasfdasdfas
+    defdf
+    assertdfa
+    FileNotFoundErroras
+    
